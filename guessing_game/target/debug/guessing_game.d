@@ -1,1 +1,1 @@
-/home/manggini/rustprojects/guessing_game/target/debug/guessing_game: /home/manggini/rustprojects/guessing_game/src/main.rs
+/home/manggini/github_projects/rustProjects/guessing_game/target/debug/guessing_game: /home/manggini/github_projects/rustProjects/guessing_game/src/main.rs
